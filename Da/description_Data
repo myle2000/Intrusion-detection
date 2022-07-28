@@ -1,2 +1,2 @@
-Test.txt : dữ liệu thử nghiệm
-Train.txt : dữ liệu huấn luyện
+NSL_KDD_Test.csv : dữ liệu thử nghiệm
+NSL_KDD_Train.csv : dữ liệu huấn luyện
